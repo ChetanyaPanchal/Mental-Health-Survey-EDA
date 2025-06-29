@@ -34,18 +34,6 @@ mental_vs_physical - Perception of how seriously mental health is taken compared
 
 comments - Open-ended responses or additional feedback
 
-# Key Analyses and Visualizations
-Content Distribution: Movies dominate the platform, but TV Shows exhibit higher median IMDb scores.
-
-IMDb Score Analysis: Most content falls between 5 and 7 IMDb rating; high-rated content (>8.5) is limited.
-
-Genre Popularity: Drama, Comedy, and Action are the most common and watched genres.
-
-Runtime Insights: Runtime does not strongly correlate with ratings, suggesting quality matters more than length.
-
-Release Year Trends: A surge in content production post-2015, with 2020 being a peak year.
-
-Actor/Director Frequency: Identified top contributors across Amazon Prime content.
 
 # Business Insights
 The primary business objective of this project is to help organizations—particularly those in the tech industry—identify key workplace factors that influence employee mental health and their willingness to seek treatment. By analyzing survey responses from tech workers across various age groups, job roles, and company types, we aimed to uncover patterns related to mental health awareness, company support systems, and employee behavior. Our analysis revealed that factors such as family history of mental illness, ease of taking medical leave, and the presence of wellness programs significantly affect whether employees seek help. Companies that offer clear mental health benefits, ensure anonymity, and actively promote mental wellness initiatives see higher engagement and better treatment-seeking behavior among employees. Conversely, lack of awareness, perceived stigma, and unstructured leave policies discourage employees from addressing mental health issues.
